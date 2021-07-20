@@ -10,7 +10,16 @@ Command you need to know
 🌈 when you git commit => i => delete # => esc button => :wq at the bottom 
    to skip all these thing git commit -m 'Change app.js'
 9. how create ignore file that you don't wanna add => touch .file
+<<<<<<< HEAD
 10. to merge branch
     while you're in master 
         git merge namebranch
         => i =>  added namebranch => :wq
+=======
+10. Brunch
+we must to git commit before we can git branch namebranch => git chickout namebranch
+>>>>>>> login
+
+
+🌈git repository
+git push -u origin main
