@@ -10,3 +10,5 @@ Command you need to know
 🌈 when you git commit => i => delete # => esc button => :wq at the bottom 
    to skip all these thing git commit -m 'Change app.js'
 9. how create ignore file that you don't wanna add => touch .file
+10. Brunch
+we must to git commit before we can git branch namebranch => git chickout namebranch
